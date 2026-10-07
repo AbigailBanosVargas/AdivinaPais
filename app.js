@@ -1,0 +1,1 @@
+const baderas = document.getElementById('banderas');
